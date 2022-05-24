@@ -1,7 +1,7 @@
-# OnsagerHe
+# Doozers
 
 <h1 align='center'>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </br>I'm OnsagerHe 👩‍💻
+  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👩‍💻
 </h1>
 
 <p align='center'>
@@ -11,8 +11,8 @@
 <p align='center'>
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="24">
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">
-<code><img src="https://visitor-badge.glitch.me/badge?page_id=OnsagerHe&style=flat-square"/></code>
-<code><img src="https://badges.pufler.dev/repos/OnsagerHe"/></code>
+<code><img src="https://visitor-badge.glitch.me/badge?page_id=Doozers&style=flat-square"/></code>
+<code><img src="https://badges.pufler.dev/repos/Doozers"/></code>
 </p>
 
 <p align='center'>
@@ -22,4 +22,3 @@
 </p>
 
 <p align='center'>
-
