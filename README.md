@@ -17,6 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Doozers&show_icons=true&theme=midnight-purple&layout=compact&count_private=true&include_all_commits=true" width="50%" />
   </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doozers&theme=midnight-purple&layout=compact" width="50%"/>
+  </br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnsagerHe&layout=compact&theme=midnight-purple&langs_count=10&hide=shell,makefile&orgs=PoCInnovation&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="50%" />
 </p>
 
 <p align='center'>
