@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-    Currently a student at Epitech Lyon in my second year of computer science and web3 enthusiast. 😄
+    Currently @Kilnfi and CS student. 😄
 </p>
 
 <p align='center'>
