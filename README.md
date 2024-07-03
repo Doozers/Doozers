@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-    Currently @Kilnfi and CS student. 😄
+    Currently @Kilnfi. 😄
 </p>
 
 <p align='center'>
